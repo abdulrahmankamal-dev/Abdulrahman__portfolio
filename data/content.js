@@ -17,7 +17,7 @@ window.PORTFOLIO_CONTENT = {
       "location": "أربيل، إقليم كردستان – العراق",
       "phone": "+964 750 920 8992",
       "email": "Abdulrahman.gmcd@gmail.com",
-      "website": "https://abdulrahmann001.github.io",
+      "website": "https://github.com/abdulrahmankamal-dev",
       "age": 23,
       "vehicle": "نعم",
       "summary": "خريج علوم حاسوب من جامعة سوران يتمتع بمعرفة قوية في تكنولوجيا المعلومات ومنطق حاسوبي متين وخبرة عملية متعددة المجالات. ماهر في الدعم الفني والمحاسبة وأعمال الخزينة وإدارة العمليات. ذو خبرة في التواصل الدولي والإجراءات المصرفية. شخص موثوق ومتكيف وقادر على تحمل مسؤوليات متنوعة."
@@ -160,14 +160,14 @@ window.PORTFOLIO_CONTENT = {
       "location": "Erbil, Kurdistan Region – Iraq",
       "email": "Abdulrahman.gmcd@gmail.com",
       "phone": "+964 750 920 8992",
-      "website": "Abdulrahmann001.github.io",
+      "website": "github.com/abdulrahmankamal-dev",
       "whatsapp": "9647509208992"
     },
     "ar": {
       "location": "أربيل، إقليم كردستان – العراق",
       "email": "Abdulrahman.gmcd@gmail.com",
       "phone": "+964 750 920 8992",
-      "website": "Abdulrahmann001.github.io",
+      "website": "github.com/abdulrahmankamal-dev",
       "whatsapp": "9647509208992"
     }
   },
@@ -200,7 +200,7 @@ window.PORTFOLIO_CONTENT = {
       "label_vehicle": "Own Vehicle",
       "label_phone": "Phone",
       "label_email": "Email",
-      "label_website": "Website",
+      "label_website": "GitHub",
       "skills_technical": "Technical",
       "skills_business": "Business",
       "skills_personal": "Personal",
@@ -239,7 +239,7 @@ window.PORTFOLIO_CONTENT = {
       "label_vehicle": "يمتلك سيارة",
       "label_phone": "الهاتف",
       "label_email": "البريد الإلكتروني",
-      "label_website": "الموقع الإلكتروني",
+      "label_website": "GitHub",
       "skills_technical": "تقنية",
       "skills_business": "تجارية",
       "skills_personal": "شخصية",
